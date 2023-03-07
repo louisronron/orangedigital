@@ -1,2 +1,12 @@
-# orangedigital
-Orange Digital React Challenge
+# Orange Digital React Challenge
+A React Development challenged by Orange Digital for Be Pacific Digital development team.
+
+# Getting Started
+## Prerequisites
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce euismod velit elit, ac fermentum nibh consequat eget. Pellentesque id dolor eu mi pellentesque semper at a nulla. Nulla vel justo leo. Nam bibendum mi mauris, ut tristique mauris auctor in. Nunc ultricies sapien vel lacus eleifend, nec malesuada libero pharetra. Sed maximus ligula euismod, pulvinar eros sit amet, sagittis metus. Nam vel elit leo. In mattis, magna a blandit feugiat, purus arcu feugiat tellus, eget tempor purus tellus sit amet magna. Mauris sit amet nibh euismod, tincidunt ex eu, dapibus ipsum. Etiam venenatis enim quis nulla ullamcorper, eu congue enim pulvinar. Vivamus fringilla bibendum ligula, eu dapibus nulla laoreet id. Proin finibus est eget leo varius, in pretium ipsum consectetur.
+
+## Installation
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce euismod velit elit, ac fermentum nibh consequat eget. Pellentesque id dolor eu mi pellentesque semper at a nulla. Nulla vel justo leo. Nam bibendum mi mauris, ut tristique mauris auctor in. Nunc ultricies sapien vel lacus eleifend, nec malesuada libero pharetra. Sed maximus ligula euismod, pulvinar eros sit amet, sagittis metus. Nam vel elit leo. In mattis, magna a blandit feugiat, purus arcu feugiat tellus, eget tempor purus tellus sit amet magna. Mauris sit amet nibh euismod, tincidunt ex eu, dapibus ipsum. Etiam venenatis enim quis nulla ullamcorper, eu congue enim pulvinar. Vivamus fringilla bibendum ligula, eu dapibus nulla laoreet id. Proin finibus est eget leo varius, in pretium ipsum consectetur.
+
+# Usage / Running the application
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce euismod velit elit, ac fermentum nibh consequat eget. Pellentesque id dolor eu mi pellentesque semper at a nulla. Nulla vel justo leo. Nam bibendum mi mauris, ut tristique mauris auctor in. Nunc ultricies sapien vel lacus eleifend, nec malesuada libero pharetra. Sed maximus ligula euismod, pulvinar eros sit amet, sagittis metus. Nam vel elit leo. In mattis, magna a blandit feugiat, purus arcu feugiat tellus, eget tempor purus tellus sit amet magna. Mauris sit amet nibh euismod, tincidunt ex eu, dapibus ipsum. Etiam venenatis enim quis nulla ullamcorper, eu congue enim pulvinar. Vivamus fringilla bibendum ligula, eu dapibus nulla laoreet id. Proin finibus est eget leo varius, in pretium ipsum consectetur.
