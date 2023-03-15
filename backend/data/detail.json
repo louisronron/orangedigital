@@ -1,0 +1,47 @@
+{
+	"title": "DETAIL PAGE",
+	"subtitle": "Lost on the Road to the mountains",
+	"by": "Alan Tiger",
+	"at": "Paris, France",
+	"on": "March 31st, 2016",
+	"like_count": "4.5K",
+	"comment_count": "1.2K",
+	"comments": [
+		{
+			"id": 1,
+			"name": "John Doe",
+			"profile_pic_url": "https://randomuser.me/api/portraits/men/75.jpg",
+			"comment": "Wow, what a stunning view of the mountains!",
+			"time": "2022-03-08T12:30:00Z",
+			"total_likes": 20,
+			"total_comments": 10
+		},
+		{
+			"id": 2,
+			"name": "Jane Smith",
+			"profile_pic_url": "https://randomuser.me/api/portraits/women/50.jpg",
+			"comment": "This is simply breathtaking!",
+			"time": "2022-03-07T14:00:00Z",
+			"total_likes": 50,
+			"total_comments": 25
+		},
+		{
+			"id": 3,
+			"name": "David Lee",
+			"profile_pic_url": "https://randomuser.me/api/portraits/men/65.jpg",
+			"comment": "I could stare at this all day long!",
+			"time": "2022-03-06T08:45:00Z",
+			"total_likes": 10,
+			"total_comments": 5
+		},
+		{
+			"id": 4,
+			"name": "Maria Perez",
+			"profile_pic_url": "https://randomuser.me/api/portraits/women/23.jpg",
+			"comment": "I wish I could be there right now!",
+			"time": "2022-03-05T17:15:00Z",
+			"total_likes": 30,
+			"total_comments": 15
+		}
+	]
+}

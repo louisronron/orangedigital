@@ -1,0 +1,16 @@
+{
+	"name": "orange-digital-backend",
+	"version": "1.0.0",
+	"description": "The orange digital react challenge server API",
+	"main": "index.js",
+	"repository": "https://github.com/louisronron/orangedigital",
+	"author": "Be Pacific Digital Agency",
+	"license": "MIT",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"express": "^4.18.2"
+	},
+	"scripts": {
+		"start": "node server.js"
+	}
+}

@@ -1,0 +1,13 @@
+{
+  "name": "orange-digital-challenge",
+  "version": "1.0.0",
+  "scripts": {
+    "install:frontend": "yarn --cwd frontend install",
+    "install:backend": "yarn --cwd backend install",
+    "install": "yarn install:frontend && yarn install:backend",
+    "start": "concurrently \"yarn --cwd backend start\" \"yarn --cwd frontend start\""
+  },
+  "dependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
